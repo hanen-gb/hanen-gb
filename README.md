@@ -95,19 +95,6 @@ Eager to contribute to impactful projects in dynamic and collaborative environme
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=hanen-gb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanen-gb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hanen-gb&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## Certifications
 
 `CCNA 1 & 2 — Cisco` &nbsp; `Microsoft Azure AI` &nbsp; `OCI AI — Oracle` &nbsp; `OCI Cloud — Oracle` &nbsp; `OCI Data — Oracle`  
