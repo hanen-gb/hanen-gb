@@ -40,18 +40,6 @@ Eager to contribute to impactful projects in dynamic and collaborative environme
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **OCR Multi-Agent Pipeline** *(PFE)* | 4-agent system for intelligent extraction & audit of commercial documents | LangGraph · FastAPI · React · GLM · Gemini · PostgreSQL |
-| **AI Data Analyst Agent** | Multi-agent BI system with dual implementation: n8n (no-code) & LangGraph (code-based) | LangGraph · n8n · SQL · LLMs |
-| **GCRBot — Student Partner** | Conversational agent for course/schedule access via RAG & vector DB | CrewAI · RAG · Streamlit · LLMs |
-| **Industrial Parts Detection** | YOLOv5-based real-time detection & counting for factory automation | YOLOv5 · Python · Computer Vision |
-| **Plant Disease Classification** | Deep learning models deployed on HuggingFace Spaces | PyTorch · TensorFlow · HuggingFace · Gradio |
-| **MIMO System Simulation** | End-to-end MIMO transmission with BER & capacity analysis | MATLAB · Signal Processing · 5G/LTE |
-
----
 
 ## Tech Stack
 
