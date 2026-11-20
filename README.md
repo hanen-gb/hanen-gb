@@ -16,7 +16,7 @@
 
 ## Profile
 
-software engineer  with a strong focus on **Artificial Intelligence**, **Data Science**, and **IT Infrastructure**.
+ICT engineer  with a strong focus on **Artificial Intelligence**, **Data Science**, and **IT Infrastructure**.
 Passionate about innovation and intelligent systems — bridging network engineering with agentic AI to build end-to-end automation pipelines.
 Eager to contribute to impactful projects in dynamic and collaborative environments.
 
