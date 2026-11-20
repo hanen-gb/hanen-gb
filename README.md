@@ -95,8 +95,6 @@ Eager to contribute to impactful projects in dynamic and collaborative environme
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-goubaa%20hanen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goubaa-hanen)
-&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-hananegoubaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hananegoubaa@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-hanen--gb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanen-gb)
